@@ -1,5 +1,3 @@
 {
-   // "vscodeGitCommit.template": [
-   //    "{feat}: {message}"
-   // ]
+   "editor.formatOnSave": false
 }
